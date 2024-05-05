@@ -1,0 +1,440 @@
+BUFFALO BURGER
+1
+Cairo
+44
+0219914
+fast food
+4.4
+Egyptain
+BUFFALO BURGER
+BUFFALO12345
+ketchup
+5.0
+mayonnaise
+10.0
+fries
+20.0
+coleslaw
+22.0
+onion rings
+35.0
+
+BURGER
+Old School
+115.0
+American
+20
+Pure beef burger patty, topped with our signature Buffalo sauce and cheddar cheese
+10.0
+3.4
+1
+The secret Burger
+220.0
+American
+20
+Flamed burger patty with crispy onion and BBQ sauce with caramelized onion, topped with crispy secret cheese, and creamy Buffalo sauce.
+7.0
+4.0
+1
+Truffle Beef Burger
+130.0
+American
+20
+Flame grilled burger with Sautéed mushroom, crispy onion, truffle sauce, and cheddar cheese.
+5.0
+3.7
+1
+
+KIDS MEALS
+Burger
+110.0
+American
+20
+Burger sandwich of 2 50GM burger patties, with small fries and a juice box.
+5.0
+4.4
+1
+Chicken Sandwich
+110.0
+American
+20
+Chicken strips sandwich with small fries and a juice box.
+0.0
+4.3
+1
+
+Chicken Sandwiches
+Chicken Ditch
+250.0
+American
+20
+Chicken strips topped with beef bacon, sautéed mushroom, cheddar cheese, and our custom Secret sauce.
+5.0
+4.4
+1
+Chicken Crush
+120.0
+American
+20
+Your choice of grilled or fried chicken with cheddar cheese, tomato, onion and mayo dijon sauce
+8.0
+4.5
+1
+Chicken Buster
+115.0
+American
+20
+Chicken strips with Buffalo sauce and melted cheddar cheese.
+10.0
+4.6
+1
+
+
+Monginis
+2
+Nasr City CAIRO
+1000
+0225788887
+desserts
+4.4
+Egyptian
+Monginis
+Monginis123456
+fruits
+50.0
+chocolate
+30.0
+
+Cakes
+Chocklet heart
+850.0
+Egyptain
+10
+Chocolate sponge, filling with chocolate cream finish Half rocher & half glasse chocolate
+3.0
+3.5
+0
+Choco fruit Dueto
+450.0
+Egyptain
+10
+Duetto cake half Chocolate sponge and cream topped with Chocolate pieces and half Vanilla sponge and cream topped with fresh seasonal fruit: Apple, Pineapple, Kiwi and Apricot.
+8.0
+3.9
+2
+
+GATEAUX
+Vanilla Fruity
+30.0
+Egyptain
+30
+vanilla sponge covered with cream with fruit on top
+12.0
+3.9
+0
+Sunmark - Choco
+25.0
+Egyptain
+30
+A unique piece of chocolate sponge and rich chocolate cream
+13.0
+3.9
+2
+
+
+Heart attack
+3
+Masr El Gedida CAIRO
+50
+15428
+fast food
+4.3
+Egyptain
+Heart attack
+Heart attack12345
+Onion Rings
+65.0
+Mozzarella fingers
+65.0
+Cheese fries
+45.0
+Cole slaw
+30.0
+Rice
+30.0
+
+Single meal
+Single Mix
+150.0
+Egyptain
+5
+Marinated two pieces of grilled chicken and two strips of crispy chicken with Heart Attack's special seasoning, served alongside French fries, signature coleslaw, and fresh bread.
+10.0
+4.4
+0
+Heart Attack dinner
+150.0
+Egyptain
+7
+Three pieces of marinated grilled chicken seasoned with Heart Attack's special blend, served with French fries, signature coleslaw, and fresh bread.
+20.0
+4.3
+1
+
+Chicken Sandwiches
+Chicken Heart Attack
+105.0
+Egyptain
+8
+Crispy chicken breasts with smoked turkey, topped with special cheese sauce, lettuce, tomatoes, pickles, cheddar cheese sauce, and a cheese bomb drizzled with ranch dressing.
+10.0
+4.0
+2
+Hungover Chicken
+105.0
+Egyptain
+100
+Crispy chicken breasts with special cheese sauce, lettuce, tomatoes, pickles, fried mozzarella sticks, and Heart Attack's special sauce.
+30.0
+3.0
+1
+
+Beef Burger
+Texas Attack
+115.0
+Egyptain
+20
+Grilled beef burger with crispy onion rings, special cheese sauce, beef slices, lettuce, pickles, and tomatoes.
+10.0
+3.0
+2
+Brave Heart
+115.0
+Egyptain
+30
+Grilled beef burger with mushroom slices, special cheese sauce, Hart Attack's special sauce, lettuce, pickles, tomatoes, and jalapeno 
+10.0
+4.0
+1
+
+
+El Haty
+4
+Cairo
+50
+02199
+home meal
+4.4
+Egyptain
+El Haty
+El Haty1234
+Sambosa with meat 5 pieces
+80.0
+Sambosa with cheese 5 pieces
+65.0
+Saute
+55.0
+Fries
+30.0
+Hummus
+25.0
+Baba Ghanug
+17.0
+Green salad
+17.0
+
+Meals
+Shish Tawook
+144.0
+Egyptain
+33
+1/4 kg Shish with Basmati rice and fries
+20.0
+4.0
+1
+Mix ElHATY
+260.0
+Egyptain
+99
+Kebab, Kofta , Shish, with Basmati rice , salad , bread
+10.0
+3.0
+1
+Grilled Chicken Breast
+175.0
+Egyptain
+33
+1/4 kg Grilled chicken Breast with Saute and fries 
+20.0
+4.9
+1
+
+Trays
+Kings Tray
+2955.0
+Egyptain
+22
+Kilo kabab , kilo ribs , kilo shish , kilo kofta , with kilo mombar, kilo and half plain rice
+10.0
+4.0
+1
+Friends Tray
+2955.0
+Egyptain
+22
+3 pigeon rice ir freekeh with half kilo kofta with basmati rice and mombar, salad , bread , liter of any drink
+30.0
+3.0
+1
+Big Family Tray
+2955.0
+Egyptain
+22
+3/4 kofta , 3/4 kabab , 3/4 shish , 3/4 sausages, 2 grilled chicken with mombar dish , kilo basmati rice
+5.0
+5.0
+1
+
+
+Abu Auf
+5
+new Cairo
+40
+0219914
+drinks
+4.4
+Egyptain
+Abu Auf
+Abu Auf12345
+milk
+20.0
+chocolate
+30.0
+
+Coffee 
+Espresso ( Flore ) - 500 gm
+320.0
+Egyptain
+30
+Great Coffee beans for a strong cup of coffee with excellent quality and a bold taste capable of satisfying the most demanding tastes. The roasting density makes it ideal.
+20.0
+4.0
+0
+Dark roasted plain Brazilian Coffee - 100 gm
+37.0
+Egyptain
+30
+Brazilian coffee tends to be low in acidity, smooth in body with sweet flavors and it offers distinctive rich and bold taste. A high-end favorite that caters to the taste of the premium coffee lovers.
+20.0
+4.0
+0
+Chocolate Coffee - 100 gm
+70.0
+Egyptain
+30
+A delectable cup that combines the rich flavor of coffee with the sweet flavor of chocolate.
+20.0
+4.0
+0
+Light roasted blended Turkish Coffee - 250 gm
+70.0
+Turkish
+30
+The flavorful, rich taste of this light Turkish coffee from Abu Auf gives you a fresh start. A thick, bold, and rich taste that would satisfy all coffee enthusiast.
+20.0
+4.0
+0
+
+Dates And Dried Fruits
+Medjool Dates Deluxe 1 Kg
+70.0
+Egyptain
+30
+A natural and delicious dessert that is suitable for any time of the day, as our scheduled dates are famous for their caramel taste, and they are also a morning choice when consumed with a warm cup of coffee from our products.
+20.0
+4.0
+0
+Dates with Almonds - 200 gm
+70.0
+Egyptain
+30
+A natural sweetness that makes a delicious treat any time of the day. Those sweet organic dates are filled with pieces of almonds to give you a unique taste. They are the best morning treat when indulged with a warm cup of coffee from our wide collection.
+20.0
+4.0
+0
+Sahara Delights Chocolate - 300 gm
+70.0
+Egyptain
+30
+A natural sweetness that makes a delicious treat any time of the day. Our Sahara Chocolate Delights are widely known for their rich taste and texture. Those sweet organic dates are coated with a smooth layer of chocolate to give you a unique taste. They are the best morning treat when indulged with a warm cup of coffee from our wide collection.
+20.0
+4.0
+0
+
+Biscuits | Maamoul | Jelly & Benson
+Maamoul Dates box
+70.0
+Egyptain
+30
+Freshly baked cookies that are made from freshly harvested dates. No Preservative, No artificial Color. A great source of energy and a healthy yet sweet snack.
+20.0
+4.0
+0
+Jelly Fruitx With Orange Flavor Jar - 200 Gm
+70.0
+Egyptain
+30
+Our jelly candy is a mixture of delicious fruits, that satisfies your craving for sweets, a bag of happiness in different forms of jelly that children and adults drown in.
+20.0
+4.0
+0
+Wafer Rolls Hazelnut 24 Pieces
+70.0
+Egyptain
+30
+Light and crunchy wafer rolls filled with delicious cream, Abu Auf wafer is unique, as it is the best quick afternoon snack with a warm cup of coffee from Abu Auf.
+20.0
+4.0
+0
+Italian Biscotti 300 G
+70.0
+Italian
+30
+Taste New Italian Biscotti with different flavors :--With Almonds , Cranberries and Chocolate. ِAll in one Box.
+20.0
+4.0
+0
+
+Beverages
+Hot Chocolate - 150 G 
+70.0
+Egyptain
+30
+The smooth texture of our premium cocoa powder makes our hot chocolate mix one of its kind. An excellent flavor and consistency to give you the texture desired.
+20.0
+4.0
+0
+Lemon Mint - 12 Packet
+70.0
+Egyptain
+30
+Lemon and mint drink is a naturally caffeine-free with a strong aroma and flavor. It’s an excellent herb drink that detoxifies, rejuvenates and soothes your body.
+20.0
+4.0
+0
+AbuAuf Sahlab - 200 gm
+70.0
+Egyptain
+30
+This traditional Middle Eastern drink is a dessert by itself, it is rich, creamy and decadent. It’s a cup that fills you with love and warmth in this cold weather. Best served with a sprinkle of nuts and dried fruits on top. Check Abu Auf’s variety.
+20.0
+4.0
+0
+Flavored Pyramid Wild Berries Tea - 20 Packets
+70.0
+Egyptain
+30
+Subtle fruit flavor, creating the needed balance between the bitter taste of tea, and sourness of wild berries for a refreshing crisp texture and airy, evaporating finish.
+20.0
+4.0
+0

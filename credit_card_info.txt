@@ -1,0 +1,4 @@
+Transaction ID: 1702781447980
+Credit Card Number: 1234567812345678
+Expiration Date: 06/2021
+CVV: 500
